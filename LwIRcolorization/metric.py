@@ -120,7 +120,7 @@ list_ssim = []
 # list_mse = []
 list_uqi=[]
 list_msssim=[]
-for i in range(100, 144):
+for i in range(44, 144):
 
     # img_a = Image.open(path1 + str(i) +'_'+ 'real_B'+'.png')
     # img_b = Image.open(path2 + str(i)+'_'+  'fake_B'+ '.png')
